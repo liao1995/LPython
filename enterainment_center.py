@@ -18,3 +18,5 @@ inception = media.Movie("Inception",
 
 movies = [toy_story, avatar, inception]
 fresh_tomatoes.open_movies_page(movies)
+
+print(media.Movie.VALID_RATINGS)
